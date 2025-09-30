@@ -5,7 +5,7 @@ public class AppSong {
     private String title;
     private String artist;
     private String coverPath;
-
+//funcion: bloque con el que se construyen listas, se llenan ventanas y se comunican los modulos
     public AppSong(String id, String title, String artist, String coverPath) {
         this.id = id;
         this.title = title;

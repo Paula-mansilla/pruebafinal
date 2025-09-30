@@ -5,7 +5,7 @@ import java.util.List;
 
 public class AppPlaylist {
     private List<AppSong> songs = new ArrayList<>();
-
+//representa una lista de reproducción (playlist)
     public List<AppSong> getSongs() { return songs; }
     public void add(AppSong s) { if(!songs.contains(s)) songs.add(s); }
     public void remove(AppSong s) { songs.remove(s); }

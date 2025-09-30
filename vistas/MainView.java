@@ -3,7 +3,7 @@ package vistas;
 import javax.swing.*;
 import appcore.AppPlaylist;
 import control.PlaylistController;
-
+//Ventana simple con biblioteca
 public class MainView {
     private JFrame frame;
 

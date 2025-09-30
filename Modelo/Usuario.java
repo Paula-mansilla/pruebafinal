@@ -2,7 +2,7 @@ package Modelo;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//epresenta a un usuario con sus playlists
 public class Usuario {
     private String nombre;
     private String password;

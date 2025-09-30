@@ -2,7 +2,7 @@ package Modelo;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//organiza canciones
 public class Playlist {
     private String nombre;
     private List<String> canciones;

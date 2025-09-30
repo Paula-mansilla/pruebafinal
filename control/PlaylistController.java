@@ -3,7 +3,7 @@ package control;
 import appcore.AppPlaylist;
 import appcore.AppSong;
 import java.util.List;
-
+//maneja canciones
 public class PlaylistController {
     private AppPlaylist playlist;
 

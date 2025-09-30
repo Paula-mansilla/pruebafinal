@@ -8,7 +8,7 @@ import java.awt.*;
 import appcore.AppPlaylist;
 import control.PlaylistController;
 import vistas.LibraryView;
-
+//Es la ventana principal y funcional de la app, que permite navegar entre la biblioteca y el mix del usuario
 public class VentanaPrincipal extends JFrame {
     private Usuario usuario;
     private JTabbedPane tabs;
